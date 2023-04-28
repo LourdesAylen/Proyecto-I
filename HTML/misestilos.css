@@ -3,6 +3,7 @@ h1 {
     margin: 0px;
     padding: 20px;
     border-radius: 500px;
+    border: 6px solid rgb(235, 94, 141);
     display: flex;
     justify-content: center;
 }
@@ -12,16 +13,28 @@ body {
     margin: 0px;
     padding-left: 60px;
 }
+
 img {
     float: right;
+    border: 6px solid rgb(47, 202, 47);
 }
+
 a {
     margin: 60px;
     color: rgb(5, 43, 7);
 }
+
 a:hover {
     text-decoration: none;
     background-color: black;
     color: dimgrey;
 }
 
+fieldset{
+    background-color: rgb(230, 129, 171);
+    border: 6px solid rgb(235, 94, 141);
+}
+fieldset tr:hover {
+background: rgb(117, 255, 117);
+
+}
