@@ -34,7 +34,3 @@ fieldset{
     background-color: rgb(230, 129, 171);
     border: 6px solid rgb(235, 94, 141);
 }
-fieldset tr:hover {
-background: rgb(117, 255, 117);
-
-}
